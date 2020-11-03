@@ -154,6 +154,3 @@ while y == "+":
 		print (Back.CYAN)
 		print (Fore.BLACK)
 		input ()
-
-input ()
-
